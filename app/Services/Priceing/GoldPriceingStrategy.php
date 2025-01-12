@@ -2,7 +2,7 @@
 
 namespace App\Services\Priceing;
 
-use App\Contracts\PricingStrategyInterface;
+
 
 class GoldPriceingStrategy implements PricingStrategyInterface
 {

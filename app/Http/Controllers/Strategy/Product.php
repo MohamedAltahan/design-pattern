@@ -2,8 +2,9 @@
 
 namespace App\Http\Controllers\Strategy;
 
-use App\Contracts\PricingStrategyInterface;
+
 use App\Http\Controllers\Controller;
+use App\Services\Priceing\PricingStrategyInterface;
 
 class Product extends Controller
 {
